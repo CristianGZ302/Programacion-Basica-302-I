@@ -1,4 +1,1 @@
-# Programacion-Basica-302-I
-## Cristian Alexis Gutierrez Zainz
-## Fecha de nacimiento 27/Octubre/2009
-## Portafolio de codigos de C++
+<img width="578" height="398" alt="image" src="https://github.com/user-attachments/assets/31182c37-6668-49d7-8e5f-2880db51d817" />
