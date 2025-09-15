@@ -7,7 +7,7 @@
 using namespace std;
 int main()
 {
-  cout<<"Bienvenidos a programacion Basica en C++\n";
+  cout<<"Bienvenido Cristian a programacion Basica en C++\n";
   cout<<"Gracias por Programar en clase";
   return 0;
 }
